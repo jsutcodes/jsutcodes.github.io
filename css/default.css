@@ -83,3 +83,12 @@ div.circle-avatar{
     right: 0;
     bottom: 0;
     }
+    /*Image for avatar */
+    .avatar {
+    width:128px;
+    margin: 10px;
+    border:10px solid red;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+}
