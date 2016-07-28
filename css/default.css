@@ -17,9 +17,9 @@ body {
     opacity:0.9;
 }
 
-/* Add a orange color to all navbar links */
+/* Add a grey color to all navbar links */
 .navbar li a, .navbar .navbar-brand { 
-    color: #ed5722 !important;
+    color: #29292c !important;
 }
 
 /* On hover, the links will turn white */
@@ -30,7 +30,7 @@ body {
 /* The active link */
 .navbar-nav li.active a {
     color: #fff !important;
-    background-color:#29292c !important;
+    background-color: #ed5722 !important;
 }
 
 /* Remove border color from the collapsible button */
