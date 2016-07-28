@@ -93,3 +93,9 @@ div.circle-avatar{
     -webkit-border-radius: 500px;
     -moz-border-radius: 500px;
 }
+
+/*container orange background */
+orange-back {
+    background-color: #ed5722;
+    color: #ffffff;
+}
