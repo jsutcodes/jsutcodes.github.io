@@ -85,7 +85,6 @@ div.circle-avatar{
     }
     /*Image for avatar */
     .avatar {
-    width:128px;
     margin: 10px;
     border:10px solid red;
     border-radius: 500px;
