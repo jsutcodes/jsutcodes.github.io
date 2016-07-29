@@ -98,4 +98,6 @@ div.circle-avatar{
 .orange-back {
     background-color: #ed5722;
     color: #ffffff;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
